@@ -15,6 +15,7 @@ import javax.swing.JOptionPane;
  * @author  Jim Lombardo, jlombardo@wctc.edu
  * @version 1.00
  */
+
 public class Challenge1 {
     private static final int LAST_NAME_IDX = 1;
 

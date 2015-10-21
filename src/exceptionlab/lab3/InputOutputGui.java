@@ -4,6 +4,7 @@ import exceptionlab.lab2.*;
 import javax.swing.JOptionPane;
 
 /**
+ * 
  * This class is responsible for all input and output in the program.
  * 
  * @author  Jim Lombardo, jlombardo@wctc.edu

@@ -3,7 +3,8 @@ package lab2;
 /**
  * This challenge is similar to lab1, except that the architecture 
  * has change to SOA. Now it's more important than ever to throw exceptions
- * back to a class that is responsible for displaying error messages.
+ * back to a class that is 
+ * responsible for displaying error messages.
  * <p>be performed here.
  * 
  * No input or output should be performed here.

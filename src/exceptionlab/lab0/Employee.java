@@ -2,7 +2,7 @@ package lab0;
 
 import java.util.Date;
 
-/**
+/** 
  * In this challenge you need to address the probability that at some
  * point the arguments to method parameters may not be valid. 
  * <p>
@@ -25,7 +25,8 @@ public class Employee {
     private String ssn;
     private Date hireDate;
     private int daysVacation;
-
+ 
+    
     public Employee() {
         firstName = "Unknown";
         lastName = "Unknown";
